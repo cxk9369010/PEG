@@ -1,6 +1,6 @@
 # PEG
 
-Xiaokai Chang et.al., A projected extrapolation gradient method with larger step size for monotone variational inequalities,
+Xiaokai Chang and Jianchao Bai, A projected extrapolation gradient method with larger step size for monotone variational inequalities, submitted to JOTA.
 
-For more details, please contact xkchang@lut.cn.
+For some details, please contact xkchang@lut.cn.
 
